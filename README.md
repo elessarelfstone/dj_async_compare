@@ -32,4 +32,4 @@ and aiohttp:
 ab -n 1000 -c 10 http://127.0.0.1:8088/
 ```
 
-Play around with -c parameter increasing for each server.
+Play around with -c parameter, increasing it for each server.
